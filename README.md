@@ -16,18 +16,20 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 <details>
 <summary>Dungeons</summary>
 
-- Leap Alerts  
-- Rag Axe Alerts  
-- Pad Timer  
+    - Leap Alerts  
+    - Rag Axe Alerts  
+    - Pad Timer  
 </details>
 
 <details>
 <summary>Kuudra</summary>
-- Auto Kuudra requeue  
+
+    - Auto Kuudra requeue  
 </details>
 
 <details>
 <summary>QOL</summary>
+
     - SlayerHelper  
     - Particle Hider  
     - Auto Rejoin  
@@ -37,6 +39,7 @@ And more to come!
 
 <details>
 <summary>Commands</summary>
+
     - /vexo - Opens the mod configuration menu.  
     - /tyfr - Will leave the Party after the current the Dungeon/Kuudra run
 </details>
