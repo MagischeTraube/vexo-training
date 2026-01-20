@@ -6,35 +6,37 @@
 [![discord](https://img.shields.io/discord/1385629270352859296?color=blue&label=Discord)](https://discord.gg/wfW3aEEpVA)
 
 
-Eine Hypixel Skyblock Utilities Mod für Fabric 1.21.
+Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 
 > [!NOTE]
-> Wenn du einen GitHub-Account hast, **BITTE ERWÄGE EIN STERNCHEN (STAR)** zu hinterlassen und das Repository zu forken! Dies hilft uns gegen Fake-Kopien in der Suche.
+> If you own a Github account, **please consider leaving a Star** and forkimg the Repo! Doing this will help us get more feedback to provide you more and bezter Features.
 
 ## Features
 
 <details>
-<summary>General</summary>
-- Discord Rich Presence
-- Download & Ping Anzeige
-</details>
-
-<details>
 <summary>Dungeons</summary>
-- Dungeon Info HUD
-- Key Notifier
+- Leap Alerts
+- Rag Axe Alerts
+- Pad Timer
 </details>
 
 <details>
-<summary>Miscellaneous</summary>
-- QoL Verbesserungen für 1.21
+<summary>Kuudra</summary>
+- Auto Kuudra requeue
+</details>
+
+<details>
+<summary>QOL</summary>
+- SlayerHelper
+- Particle Hider
+- Auto Rejoin
 </details>
 
 And more to come!
 
 <details>
 <summary>Commands</summary>
-- `/vexo` - Öffnet das Konfigurationsmenü.
+- `/vexo` - Opens the mod configuration menu.
 </details>
 
 ## Credits to Open Source Software
