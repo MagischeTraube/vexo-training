@@ -52,6 +52,3 @@ And more to come!
 ## Credits to Open Source Software
 - [Fabric API](https://fabricmc.net/)
 - [Discord-RPC](https://github.com/Vatuu/discord-rpc)
-
----
-[Tritt unserem Discord bei](https://discord.gg/DEIN_EINLADUNGSLINK)
