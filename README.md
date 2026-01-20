@@ -1,6 +1,7 @@
 # vexo-fabric
 
-![release](https://img.shields.io/github/v/release/MagischeTraube/vexo-fabric?color=blue&label=release) ![downloads](https://img.shields.io/github/downloads/MagischeTraube/vexo-fabric/total?color=blue&label=downloads) ![license](https://img.shields.io/github/license/MagischeTraube/vexo-fabric?color=blue&label=license) ![Discord](https://img.shields.io/discord/1385629270352859296?color=blue&label=Discord)
+![release](https://img.shields.io/github/v/release/MagischeTraube/vexo-fabric?color=blue&label=release) ![downloads](https://img.shields.io/github/downloads/MagischeTraube/vexo-fabric/total?color=blue&label=downloads) ![license](https://img.shields.io/github/license/MagischeTraube/vexo-fabric?color=blue&label=license) [![discord](https://img.shields.io/discord/1385629270352859296?color=blue&label=discord)](https://discord.gg/wfW3aEEpVA)
+
 
 Eine Hypixel Skyblock Utilities Mod für Fabric 1.21.
 
