@@ -42,8 +42,8 @@ And more to come!
 
 - /vexo - Opens the mod configuration menu.  
 - /tyfr - Will leave the Party after the current the Dungeon/Kuudra run
-- /<floor / kuudra tier> 
-    eg. /f5 /m7 /t4
+- /<floor or kuudra tier>  
+    - eg. /f5 /m7 /t4
 </details>
 
 ## Credits to Open Source Software
