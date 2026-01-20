@@ -36,7 +36,8 @@ And more to come!
 
 <details>
 <summary>Commands</summary>
-- `/vexo` - Opens the mod configuration menu.
+    - /vexo - Opens the mod configuration menu.  
+    - /tyfr - Will leave the Party after the current the Dungeon/Kuudra run
 </details>
 
 ## Credits to Open Source Software
