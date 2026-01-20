@@ -40,13 +40,14 @@ And more to come!
 <details>
 <summary>Commands</summary>
 
-- /vexo - Opens the mod configuration menu.  
-- /tyfr - Will leave the Party after the current the Dungeon/Kuudra run
-- /<floor / kuudra tier>
-    - /f5 -> Floor 5
-    - /m7 -> Master Mode 7
-    - /t4 -> Fiery Kuudra
+* /vexo - Opens the mod configuration menu.  
+* /tyfr - Will leave the Party after the current the Dungeon/Kuudra run
+* /&lt;floor or kuudra tier&gt;
+    * /f5 -> Floor 5
+    * /m7 -> Master Mode 7
+    * /t4 -> Fiery Kuudra
 </details>
+
 
 ## Credits to Open Source Software
 - [Fabric API](https://fabricmc.net/)
