@@ -16,9 +16,9 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 <details>
 <summary>Dungeons</summary>
 
-    - Leap Alerts  
-    - Rag Axe Alerts  
-    - Pad Timer  
+- Leap Alerts  
+- Rag Axe Alerts  
+- Pad Timer  
 </details>
 
 <details>
@@ -30,9 +30,9 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 <details>
 <summary>QOL</summary>
 
-    + SlayerHelper  
-      Particle Hider  
-    - Auto Rejoin  
++ SlayerHelper  
+* Particle Hider  
+- Auto Rejoin  
 </details>
 
 And more to come!
