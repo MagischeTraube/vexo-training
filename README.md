@@ -1,8 +1,8 @@
 # vexo-fabric
 
-![release](https://img.shields.io/github/v/release/MagischeTraube/vexo-fabric?color=blue&label=release) 
-![downloads](https://img.shields.io/github/downloads/MagischeTraube/vexo-fabric/total?color=blue&label=downloads) 
-![license](https://img.shields.io/github/license/MagischeTraube/vexo-fabric?color=blue&label=license) 
+![release](https://img.shields.io/github/v/release/MagischeTraube/vexo-fabric?color=blue&label=Release) 
+![downloads](https://img.shields.io/github/downloads/MagischeTraube/vexo-fabric/total?color=blue&label=Downloads) 
+![license](https://img.shields.io/github/license/MagischeTraube/vexo-fabric?color=blue&label=License) 
 [![discord](https://img.shields.io/discord/1385629270352859296?color=blue&label=Discord)](https://discord.gg/wfW3aEEpVA)
 
 
