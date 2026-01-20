@@ -24,14 +24,14 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 <details>
 <summary>Kuudra</summary>
 
-- Auto Kuudra requeue  
++ Auto Kuudra requeue  
 </details>
 
 <details>
 <summary>QOL</summary>
 
-    - SlayerHelper  
-    - Particle Hider  
+    + SlayerHelper  
+      Particle Hider  
     - Auto Rejoin  
 </details>
 
