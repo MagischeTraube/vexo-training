@@ -1,6 +1,6 @@
 # DeinModName
 
-![release](https://img.shields.io/github/v/release/DEIN_NUTZERNAME/DEIN_REPOSITORY?color=blue&label=release) ![downloads](https://img.shields.io/github/downloads/DEIN_NUTZERNAME/DEIN_REPOSITORY/total?color=blue&label=downloads) ![license](https://img.shields.io/github/license/DEIN_NUTZERNAME/DEIN_REPOSITORY?color=blue&label=license) ![discord](https://img.shields.io/discord/DEINE_SERVER_ID?color=blue&label=discord)
+![release](https://img.shields.io/github/v/release/MagischeTraube/vexo-fabric?color=blue&label=release) ![downloads](https://img.shields.io/github/downloads/DEIN_NUTZERNAME/DEIN_REPOSITORY/total?color=blue&label=downloads) ![license](https://img.shields.io/github/license/DEIN_NUTZERNAME/DEIN_REPOSITORY?color=blue&label=license) ![discord](https://img.shields.io/discord/DEINE_SERVER_ID?color=blue&label=discord)
 
 Eine Hypixel Skyblock Utilities Mod.
 
