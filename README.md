@@ -9,7 +9,7 @@
 Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 
 > [!NOTE]
-> If you own a Github account, **please consider leaving a Star** and forkimg the Repo! Doing this will help us get more feedback to provide you more and bezter Features.
+> If you own a Github account, **please consider leaving a Star** and forking the Repo! Doing this will help us get more feedback to provide you more and bezter Features.
 
 ## Features
 
@@ -47,8 +47,3 @@ And more to come!
     * /m7 -> Master Mode 7
     * /t4 -> Fiery Kuudra
 </details>
-
-
-## Credits to Open Source Software
-- [Fabric API](https://fabricmc.net/)
-- [Discord-RPC](https://github.com/Vatuu/discord-rpc)
