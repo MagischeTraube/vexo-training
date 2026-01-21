@@ -47,3 +47,36 @@ And more to come!
     * /m7 -> Master Mode 7
     * /t4 -> Fiery Kuudra
 </details>
+
+---
+
+[comment]: <> (Follwing paragraph is copied from the Skyblock mod "SkyblockOverhaul")
+
+## Installation
+
+### Prerequisites
+
+Before you begin, you need to have a few things installed:
+
+* **Fabric API**: This is a dependency for most Fabric mods, including SkyblockOverhaul. [Download it from Modrinth](https://modrinth.com/mod/fabric-api)
+* **Fabric Language Kotlin**: This mod is written in Kotlin, so you need this library as well. [Download it from Modrinth](https://modrinth.com/mod/fabric-language-kotlin)
+* **Mod Menu**: needed so sbo settings show up in mod page ingame. [Download it from Modrinth](https://modrinth.com/mod/modmenu)
+
+### Step-by-Step Installation Guide
+
+**1. Install Dependencies**
+* Download the **Fabric API** and **Fabric Language Kotlin** `.jar` files from their respective Modrinth pages.
+* Make sure to download the versions that match your Minecraft version (`1.21.5`).
+
+**2. Install SkyblockOverhaul**
+
+* Now you can download the SkyblockOverhaul mod itself.
+* Go to the mod's download page [Skyblock Overhaul on Modrinth](https://modrinth.com/mod/skyblock-overhaul) and download the `.jar` file for the correct Minecraft version.
+* Or get it from the [release section](https://github.com/SkyblockOverhaul/SBO-Kotlin/releases) of this repository.
+
+**3. Launch the Game**
+
+* Once you have all the necessary `.jar` files installed.
+* You can launch ur instance and are ready to go!
+
+The mod should now be installed and ready to use!
