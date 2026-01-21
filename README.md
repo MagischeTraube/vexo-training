@@ -35,8 +35,6 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 - Auto Rejoin  
 </details>
 
-And more to come!
-
 <details>
 <summary>Commands</summary>
 
@@ -47,6 +45,8 @@ And more to come!
     * /m7 -> Master Mode 7
     * /t4 -> Fiery Kuudra
 </details>
+
+**And more to come!**
 
 ---
 
