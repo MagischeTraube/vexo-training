@@ -6,7 +6,7 @@
 [![discord](https://img.shields.io/discord/1385629270352859296?color=blue&label=Discord)](https://discord.gg/wfW3aEEpVA)
 
 
-Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
+Hypixel Skyblock 1.21.10 Mod focussing on Dungeons and Quality of Life.
 
 > [!NOTE]
 > If you own a Github account, **please consider leaving a Star** and forking the Repo! Doing this will help us get more feedback to provide you more and better Features.
@@ -50,11 +50,12 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 </details>
 
 **And more to come!**
+> [!NOTE]
+> This mod is under active development, and we’d love to hear your feedback! Please join our Discord to submit feature requests or report any bugs.
 
 ---
 
-Dependencies
-Before you begin, you need to have a few things installed:
+# Dependencies
 
-Fabric API: This is a dependency for most Fabric mods, including Vexo-Fabric. Download it from Modrinth
-Fabric Language Kotlin: This mod is written in Kotlin, so you need this library as well. Download it from Modrinth
+* **Fabric API**: [Download it from Modrinth](https://modrinth.com/mod/fabric-api)
+* **Fabric Language Kotlin**: [Download it from Modrinth](https://modrinth.com/mod/fabric-language-kotlin)
