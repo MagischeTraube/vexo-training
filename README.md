@@ -70,7 +70,7 @@ Before you begin, you need to have a few things installed:
 **2. Install Vexo**
 
 * Now you can download the Vexo-Fabric mod itself.
-* Go to the mod's download page [Vexp-Fabric]() and download the `.jar` file for the correct Minecraft version.
+* Go to the mod's download page [Vexo-Fabric]() and download the `.jar` file for the correct Minecraft version.
 * Or get it from the [release section](https://github.com/MagischeTraube/vexo-fabric/releases) of this repository.
 
 **3. Launch the Game**
