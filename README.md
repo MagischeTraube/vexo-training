@@ -16,9 +16,12 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 <details>
 <summary>Dungeons</summary>
 
-- Leap Alerts  
-- Rag Axe Alerts  
-- Pad Timer  
+- Leap Alerts
+- Rag Axe Alerts
+- Pad Timer
+- Particle Hider
+- Party Finder
+- Positional Mesaages
 </details>
 
 <details>
@@ -30,9 +33,9 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 <details>
 <summary>QOL</summary>
 
-- SlayerHelper  
-- Particle Hider  
-- Auto Rejoin  
+- SlayerHelper
+- Chat Cleaner
+- Auto Rejoin
 </details>
 
 <details>
@@ -50,32 +53,8 @@ Hypixel Skyblock 1.21.10 Mod focussing on Dungeons, Quality of Life and Kuudra.
 
 ---
 
-[comment]: <> (Follwing paragraph is copied from the Skyblock mod "SkyblockOverhaul")
-
-## Installation
-
-### Prerequisites
-
+Dependencies
 Before you begin, you need to have a few things installed:
 
-* **Fabric API**: This is a dependency for most Fabric mods, including Vexo-Fabric. [Download it from Modrinth](https://modrinth.com/mod/fabric-api)
-* **Fabric Language Kotlin**: This mod is written in Kotlin, so you need this library as well. [Download it from Modrinth](https://modrinth.com/mod/fabric-language-kotlin)
-
-### Step-by-Step Installation Guide
-
-**1. Install Dependencies**
-* Download the **Fabric API** and **Fabric Language Kotlin** `.jar` files from their respective Modrinth pages.
-* Make sure to download the versions that match your Minecraft version (`1.21.10`).
-
-**2. Install Vexo**
-
-* Now you can download the Vexo-Fabric mod itself.
-* Go to the mod's download page [Vexo-Fabric]() and download the `.jar` file for the correct Minecraft version.
-* Or get it from the [release section](https://github.com/MagischeTraube/vexo-fabric/releases) of this repository.
-
-**3. Launch the Game**
-
-* Once you have all the necessary `.jar` files installed.
-* You can launch ur instance and are ready to go!
-
-The mod should now be installed and ready to use!
+Fabric API: This is a dependency for most Fabric mods, including Vexo-Fabric. Download it from Modrinth
+Fabric Language Kotlin: This mod is written in Kotlin, so you need this library as well. Download it from Modrinth
